@@ -1,4 +1,6 @@
 # Search Trie project
+
+## Proposal:
 For this project I will crawl web pages, storing the resulting text in a special data structure known as a trie and using it to implement a search interface.  
 
 Step 1: Write a Trie  data type for use in search.  
