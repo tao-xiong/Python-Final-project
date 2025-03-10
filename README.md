@@ -42,7 +42,7 @@ My trie will associate words found on pages with the URLs they were found on:
 
 (This image shows the keys as letters as shorthand, in practice my Trie will store keys using integer array positions.)
 
-### Week 4 - `character_to_key`
+## Week 4 - `character_to_key`
 
 In order to have a `Trie`, we will first need to convert individual characters into numeric keys.
 
@@ -173,7 +173,7 @@ All users should run these tests with `-x` so that if a test fails you do not co
 
 Please note that these tests make real web requests. They can be slow and in rare cases you may get a connection error unrelated to my code (if so try again).
 
-## Part 3 - Search Interface
+## Week 9 - Search Interface
 
 For this final portion of the assignment, I built a small interface to my search index.
 
