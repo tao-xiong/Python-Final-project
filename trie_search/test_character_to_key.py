@@ -1,4 +1,3 @@
-# Part 0: write at least 4 tests for character_to_key in this file
 import pytest
 from trie_search.trie import character_to_key
 
